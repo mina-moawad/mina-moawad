@@ -15,20 +15,23 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ## 🎨 **What I Love**  
 - **Creative Digital Design** 🖌️  
 - **Branding & Visual Identity** 🎨  
-- **UI/UX Design** 📱  
-- **Typography & Color Theory** 🎭  
+- **Syntheis and implementing designs** 📱    
 
 ---
 
 ## 🛠️ **Programs and Languages**
 ### **Programs**
-- Adobe Creative Suite (Photoshop, Illustrator, XD) 🖌️  
-- Figma, Sketch, and Canva 🎯  
-- Procreate (for digital art) 🎨  
+-  Questasim (For simulating designs and check output)
+-  Vivado (For synthesis, implementation)
+-  sublime (For Verilog and Systemverilog coding)
+-  Eclipse 
+-  Adobe Creative Suite (Photoshop, Illustrator, XD) 🖌️  
+ 
 
 ### **Languages**
-- HTML and CSS (for design prototyping)  
-- Basic JavaScript (UI/UX interactions)  
+- Verilog (for designs creation)
+- SystemVerilog (verifying the correction of the system functionality)
+- C and C++ coding
 
 ---
 
