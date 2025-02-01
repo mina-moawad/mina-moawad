@@ -35,7 +35,7 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ---
 
 ## 📜 **Certificates**
-- 📄 **[Digital Design Certificate](Testimonial)** (Completed training on Verilog HDL and FPGA flow using Vivado).  
+- 📄 **[Digital Design Certificate][Digital Design Certificate.pdf](https://github.com/user-attachments/files/18629674/Digital.Design.Certificate.pdf (Completed training on Verilog HDL and FPGA flow using Vivado).  
 - 🖌️ **Adobe Photoshop and Illustrator Expert Certification**.  
 - 🎓 **Introduction to Digital Design** from [Platform or Institution Name].  
 
