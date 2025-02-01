@@ -1,5 +1,12 @@
-# Hi there! 👋  
-I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** 💻✨  
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm <b>Mina Moawad</b> — a passionate <i>Digital Design Verification Engineer</i> 💻✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&width=435&lines=Digital+Design+Verification+Engineer;FPGA+and+RTL+Developer;Passionate+about+Technology!;Lifelong+Learner🚀">
+</p>
 
 ---
 
@@ -9,13 +16,6 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 - ⚡ I'm experienced in **RTL designs** and **FPGA development**.  
 - 🌱 I’m constantly learning and keeping up with the latest trends in **digital design**.  
 - 🎯 My goal is to craft functional, efficient, and user-friendly digital solutions.  
-
----
-
-## 🎨 **What I Love**  
-- **Creative Digital Design** 🎨  
-- **Branding & Visual Identity** ✒️  
-- **Synthesis and Implementing Designs** 🔧  
 
 ---
 
@@ -50,4 +50,8 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ---
 
 ## ⚡ **Fun Fact**  
-When I’m not designing, I’m probably admiring amazing works of art 🎨 or discovering new creative tools 🔍 to enhance my designs. 🚀
+When I’m not designing, I’m probably admiring amazing works of art 🎨 or discovering new creative tools 🔍 to enhance my designs. 🚀  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minamoawad/minamoawad/main/assets/wave.svg" width="80%">
+</p>
