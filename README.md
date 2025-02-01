@@ -5,7 +5,7 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 
 ## 👨‍💻 **About Me**
 - 🌟 I love exploring and creating innovative digital designs that captivate and inspire.  
-- 🔭 I’m currently working on designing devices using Verilog and its verifaction using UVM (universal verification method).
+- 🔭 I’m currently working on designing devices using Verilog and its verification using UVM (universal verification method).
 - I'm experienced in RTL designs and FPGA development.
 - 🌱 I’m constantly learning and keeping up with the latest trends in **digital design**.  
 - 🎯 My goal is to craft visually stunning and user-friendly experiences.  
@@ -15,7 +15,7 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ## 🎨 **What I Love**  
 - **Creative Digital Design** 🖌️  
 - **Branding & Visual Identity** 🎨  
-- **Syntheis and implementing designs** 📱    
+- **Synthesis and implementing designs** 📱    
 
 ---
 
@@ -23,20 +23,20 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ### **Programs**
 -  Questasim (For simulating designs and check output)
 -  Vivado (For synthesis, implementation)
--  sublime (For Verilog and Systemverilog coding)
+-  sublime (For Verilog and SystemVerilog coding)
 -  Eclipse 
 -  Adobe Creative Suite (Photoshop, Illustrator, XD) 🖌️  
  
 
 ### **Languages**
-- Verilog (for designs creation)
+- Verilog (for design creation)
 - SystemVerilog (verifying the correction of the system functionality)
 - C and C++ coding
 
 ---
 
 ## 📜 **Certificates**
-- **Certified UX Designer** from [Institution Name or Platform] (e.g., Coursera, Udemy)  
+- **Certified Digital Design Engineer** (Digital Design Diploma)  
 - **Adobe Photoshop and Illustrator Expert Certification**  
 - **Introduction to Digital Design** from [Platform or Institution Name]  
 
