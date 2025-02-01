@@ -37,14 +37,17 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ## 📜 **Certificates**
 - 📄 **[Digital Design Certificate](https://drive.google.com/file/d/1bFxkV_YVVKOHERFCN1TZ2xuoidUxpT3v/view?usp=sharing)**  
 - 📄 **[Digital Design Verification Certificate](https://drive.google.com/file/d/1zRlXOzTaZlU60fRCf7aIPcl8N94mplYE/view?usp=sharing)**  
-- 📄 **Management Training** *(Link to be added if available)*  
-- 📄 **FPGA Training** *(Link to be added if available)* 
+- 📄 **[Management Training Certificate](https://drive.google.com/file/d/1hJlkpjxG-ELiQAzkTSjACaO8xueYhH9f/view?usp=sharing)**  
+- 📄 **[FPGA Training Certificate](https://drive.google.com/file/d/1_ocW2bmDF8iedDUWFQb8pF8mcZkqz3LF/view?usp=sharing)**  
 
 ---
 
 ## 📫 **Let’s Connect!**  
-- 📧 Email: [mina.moawad123456789@gmail.com]
+- 📧 Email: [minamoawad@example.com](mailto:minamoawad@example.com)  
 - 🌐 Portfolio: [Coming Soon!] 🌟  
 - 💼 LinkedIn: **[Mina Moawad](https://www.linkedin.com/in/mina-moawad/)**  
 
---- 
+---
+
+## ⚡ **Fun Fact**  
+When I’m not designing, I’m probably admiring amazing works of art 🎨 or discovering new creative tools 🔍 to enhance my designs. 🚀
