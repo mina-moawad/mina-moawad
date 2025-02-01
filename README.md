@@ -44,6 +44,6 @@ I'm **Mina Moawad** — a passionate **Digital Design Verification Engineer** �
 ## 📫 **Let’s Connect!**  
 - 📧 Email: [mina.moawad123456789@gmail.com]
 - 🌐 Portfolio: [Coming Soon!] 🌟  
-- 💼 LinkedIn: [www.linkedin.com/in/mina-moawad](www.linkedin.com/in/mina-moawad)  
+- 💼 LinkedIn: [linkedin profile](www.linkedin.com/in/mina-moawad)  
 
 --- 
